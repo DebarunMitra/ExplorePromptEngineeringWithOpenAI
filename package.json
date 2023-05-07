@@ -1,0 +1,21 @@
+{
+  "name": "explorepromptengineeringwithopenai",
+  "version": "1.0.0",
+  "description": "Explore Prompt Engineering With Open AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-DebarunMitra:DebarunMitra/ExplorePromptEngineeringWithOpenAI.git"
+  },
+  "author": "DebarunMitra",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "path": "^0.12.7"
+  }
+}
